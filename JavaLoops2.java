@@ -41,3 +41,26 @@ We then print each element of our series as a single line of space-separated val
   
   
  SOLUTION-
+  
+  
+  import java.util.*;
+import java.io.*;
+
+class Solution{
+    public static void main(String []argh){
+        Scanner in = new Scanner(System.in);
+        int t=in.nextInt();
+        for(int i=0;i<t;i++){
+            int a = in.nextInt();
+            int b = in.nextInt();
+            int n = in.nextInt();
+            for(int k=0;k<n;k++){
+                a+=(int)Math.pow(2,k)*b;
+                System.out.print(a+" ");
+            }
+            System.out.println();
+        }
+    
+    }
+}
+
