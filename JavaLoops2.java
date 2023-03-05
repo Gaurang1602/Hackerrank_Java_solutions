@@ -40,7 +40,7 @@ We use , , and  to produce some series :
 We then print each element of our series as a single line of space-separated values.
   
   
- SOLUTION-
+ Solution-
   
   
   import java.util.*;
