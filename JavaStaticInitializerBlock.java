@@ -32,3 +32,7 @@ Sample input 2
 Sample output 2
 
 java.lang.Exception: Breadth and height must be positive
+
+
+Solution-
+  
