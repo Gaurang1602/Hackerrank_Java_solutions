@@ -14,7 +14,8 @@ Sample Output 0
 
 Good job
 
-
+Solution-
+  
 import java.util.*;
 import java.security.*;
 public class Solution {
