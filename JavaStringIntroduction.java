@@ -41,3 +41,10 @@ String  is "hello" and  is "java".
 When sorted alphabetically/lexicographically, "hello" precedes "java"; therefore,  is not greater than  and the answer is No.
 
 When you capitalize the first letter of both  and  and then print them separated by a space, you get "Hello Java".
+  
+  
+  
+Solution-
+  
+  
+
