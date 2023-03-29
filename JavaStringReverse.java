@@ -1,3 +1,22 @@
-Solution-
+Question-
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  Solution-
   
   
