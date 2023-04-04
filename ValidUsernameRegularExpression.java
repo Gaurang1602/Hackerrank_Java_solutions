@@ -54,10 +54,7 @@ Refer diagram in the challenge statement.
   
   
   
-  
-  
-  
-  
+ Solution-
   
   
   import java.util.Scanner;
