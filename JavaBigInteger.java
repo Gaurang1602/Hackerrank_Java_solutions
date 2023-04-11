@@ -31,36 +31,8 @@ Explanation
 
 Solution-
 
-  
-  HackerRank Home
-HackerRank
-|
-Prepare
-Certify
-Compete
-Search
-|
-Switch to..
-PrepareJavaBigNumberJava BigInteger
-Java BigInteger
-92 more points to get your gold badge!
-Rank: 273229|Points: 158/250
-Java
-Problem
-Submissions
-Leaderboard
-Discussions
-Editorial
-You made this submission 6 months ago.
-Score:10.00Status:Accepted
-People who solved Java BigInteger attempted this next:
 
-Java BigDecimal
-Learn to handle huge decimals using Java's BigDecimal class.
-Submitted Code
-Language: Java 7
-Open in editor
-1
+
 import java.io.*;
 2
 import java.util.*;
