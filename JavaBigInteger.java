@@ -34,21 +34,11 @@ Solution-
 
 
 import java.io.*;
-2
 import java.util.*;
-3
 import java.text.*;
-4
 import java.math.*;
-5
 import java.util.regex.*;
-6
-​
-7
 public class Solution {
-8
-​
-9
     public static void main(String[] args) {
 10
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
