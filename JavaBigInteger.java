@@ -79,33 +79,4 @@ public class Solution {
 23
 ​
 
-Test case 0
 
-Test case 1
-
-Test case 2
-
-Test case 3
-
-Test case 4
-
-Test case 5
-
-Test case 6
-
-Test case 7
-
-Test case 8
-Compiler Message
-Success
-Input (stdin)
-1234
-20
-Expected Output
-1254
-24680
-NEED HELP?
-View discussions
-View editorial
-View top submissions
-BlogScoringEnvironmentFAQAbout UsSupportCareersTerms Of ServicePrivacy Policy
