@@ -40,11 +40,10 @@ import java.math.*;
 import java.util.regex.*;
 public class Solution {
     public static void main(String[] args) {
-10
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-11
+
     
-12
+
           Scanner sc = new Scanner(System.in);
 13
         BigInteger a = new BigInteger(sc.nextLine());
