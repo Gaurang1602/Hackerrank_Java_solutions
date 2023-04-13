@@ -51,11 +51,10 @@ public class Solution {
         BigInteger b = new BigInteger(sc.nextLine());
 
          BigInteger sum = a.add(b);
-16
+
           BigInteger prod = a.multiply(b);
-17
+
         
-18
         System.out.println(sum+"\n"+prod);
 
     }
