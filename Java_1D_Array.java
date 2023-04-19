@@ -54,3 +54,10 @@ Sample Output
 Explanation
 
 When we save each integer to its corresponding index in , we get . The locked code prints each array element on a new line from left to right.
+
+  
+  
+ 
+  Solution-
+  
+  
